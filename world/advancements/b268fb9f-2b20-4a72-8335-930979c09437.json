@@ -3129,6 +3129,90 @@
     },
     "done": true
   },
+  "cobblemon:recipes/misc/pokedex_blue": {
+    "criteria": {
+      "has_pokedex": "2026-01-05 16:56:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_yellow": {
+    "criteria": {
+      "has_pokedex": "2026-01-05 16:56:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_red": {
+    "criteria": {
+      "has_pokedex": "2026-01-05 16:56:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_black": {
+    "criteria": {
+      "has_pokedex": "2026-01-05 16:56:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_pokedex": {
+    "criteria": {
+      "requirement": "2026-01-05 16:56:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_green": {
+    "criteria": {
+      "has_pokedex": "2026-01-05 16:56:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_white": {
+    "criteria": {
+      "has_pokedex": "2026-01-05 16:56:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_pink": {
+    "criteria": {
+      "has_pokedex": "2026-01-05 16:56:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2026-01-05 17:04:04 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:gen_1": {
+    "criteria": {
+      "started_gen1": "2026-01-05 17:04:04 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/root": {
+    "criteria": {
+      "root": "2026-01-05 17:04:04 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/oran_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-01-05 17:04:04 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2026-01-05 17:04:04 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/potion_in_campfire_pot": {
+    "criteria": {
+      "has_berry": "2026-01-05 17:04:04 +0100"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
       "has_spruce_counter": "2026-01-05 17:09:59 +0100"
@@ -3141,12 +3225,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/pokedex_blue": {
-    "criteria": {
-      "has_pokedex": "2026-01-05 16:56:49 +0100"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/spruce_counter": {
     "criteria": {
       "has_spruce_planks": "2026-01-05 17:09:59 +0100"
@@ -3156,12 +3234,6 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2026-01-05 17:09:59 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:root": {
-    "criteria": {
-      "picked_starter": "2026-01-05 17:04:04 +0100"
     },
     "done": true
   },
@@ -3219,18 +3291,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/pokedex_yellow": {
-    "criteria": {
-      "has_pokedex": "2026-01-05 16:56:49 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/pokedex_red": {
-    "criteria": {
-      "has_pokedex": "2026-01-05 16:56:49 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2026-01-05 17:09:59 +0100"
@@ -3285,27 +3345,9 @@
     },
     "done": true
   },
-  "cobbleverse:gen_1": {
-    "criteria": {
-      "started_gen1": "2026-01-05 17:04:04 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2026-01-05 17:09:59 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:mega_showdown/root": {
-    "criteria": {
-      "root": "2026-01-05 17:04:04 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/pokedex_black": {
-    "criteria": {
-      "has_pokedex": "2026-01-05 16:56:49 +0100"
     },
     "done": true
   },
@@ -3318,12 +3360,6 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2026-01-05 17:09:59 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:craft_pokedex": {
-    "criteria": {
-      "requirement": "2026-01-05 16:56:49 +0100"
     },
     "done": true
   },
@@ -3345,12 +3381,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/pokedex_green": {
-    "criteria": {
-      "has_pokedex": "2026-01-05 16:56:49 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2026-01-05 17:09:59 +0100"
@@ -3366,12 +3396,6 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2026-01-05 17:09:59 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/pokedex_white": {
-    "criteria": {
-      "has_pokedex": "2026-01-05 16:56:49 +0100"
     },
     "done": true
   },
@@ -3429,24 +3453,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/pokedex_pink": {
-    "criteria": {
-      "has_pokedex": "2026-01-05 16:56:49 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/oran_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-01-05 17:04:04 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2026-01-05 17:04:04 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2026-01-05 17:09:59 +0100"
@@ -3462,12 +3468,6 @@
   "sophisticatedstorage:recipes/misc/spruce_barrel": {
     "criteria": {
       "has_spruce_plank": "2026-01-05 17:09:59 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/potion_in_campfire_pot": {
-    "criteria": {
-      "has_berry": "2026-01-05 17:04:04 +0100"
     },
     "done": true
   },
