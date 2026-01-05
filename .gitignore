@@ -1,0 +1,9 @@
+# Ignorar archivos temporales y de sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Carpetas que no quieres subir (ocupan mucho o se regeneran)
+cache/
+libraries/

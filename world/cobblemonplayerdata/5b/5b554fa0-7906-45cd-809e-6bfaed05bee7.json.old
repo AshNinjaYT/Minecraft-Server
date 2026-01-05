@@ -1,0 +1,36 @@
+{
+  "uuid": "5b554fa0-7906-45cd-809e-6bfaed05bee7",
+  "starterPrompted": false,
+  "starterLocked": false,
+  "starterSelected": false,
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 0,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 2,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 2,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:beautifly": 1,
+      "cobblemon:snubbull": 1,
+      "cobblemon:igglybuff": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:gurdurr": [
+        "male",
+        "metals-none"
+      ],
+      "cobblemon:venusaur": [
+        "male"
+      ]
+    }
+  }
+}
