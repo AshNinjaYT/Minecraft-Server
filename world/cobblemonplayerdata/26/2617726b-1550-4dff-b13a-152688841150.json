@@ -3,30 +3,56 @@
   "starterPrompted": true,
   "starterLocked": false,
   "starterSelected": true,
-  "starterUUID": "d307ce0f-1c8f-4d21-9da7-a597376e5669",
+  "starterUUID": "efd7d388-1cfd-4b46-b25e-be42417c8201",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 5,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 1,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 20,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 1,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 15,
+    "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "water": 1
+      "water": 1,
+      "fighting": 1,
+      "flying": 1,
+      "fire": 1,
+      "grass": 1
     },
-    "totalDefeatedCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:caterpie": 1,
+      "cobblemon:skitty": 3,
+      "cobblemon:bunnelby": 3,
+      "cobblemon:pidgey": 1,
+      "cobblemon:magikarp": 1,
+      "cobblemon:zigzagoon": 1
+    },
     "aspectsCollected": {
       "cobblemon:magikarp": [
         "male",
         "magikarp-jump-standard",
-        "gyarados-eye-color-red"
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:charmeleon": [
+        "female"
+      ],
+      "cobblemon:machop": [
+        "female"
+      ],
+      "cobblemon:rookidee": [
+        "male"
+      ],
+      "cobblemon:magby": [
+        "male"
+      ],
+      "cobblemon:skiddo": [
+        "male"
       ]
     }
   }
