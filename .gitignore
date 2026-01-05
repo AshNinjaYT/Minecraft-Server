@@ -4,6 +4,5 @@ Thumbs.db
 *.log
 *.tmp
 
-# Carpetas que no quieres subir (ocupan mucho o se regeneran)
+# Carpetas que no quieres subir 
 cache/
-libraries/
