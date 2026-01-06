@@ -8,33 +8,43 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 8,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 25,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 39,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 18,
-    "totalPvNBattleVictoryCount": 7,
+    "totalPvWBattleVictoryCount": 30,
+    "totalPvNBattleVictoryCount": 9,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "water": 1,
+      "water": 2,
       "fighting": 2,
       "flying": 1,
       "fire": 1,
       "grass": 1,
       "ghost": 1,
-      "poison": 1
+      "poison": 1,
+      "psychic": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:caterpie": 1,
       "cobblemon:skitty": 3,
-      "cobblemon:bunnelby": 3,
-      "cobblemon:pidgey": 1,
+      "cobblemon:bunnelby": 4,
+      "cobblemon:pidgey": 2,
       "cobblemon:magikarp": 1,
       "cobblemon:zigzagoon": 1,
-      "cobblemon:krabby": 1
+      "cobblemon:krabby": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:hoppip": 1,
+      "cobblemon:pawmo": 1,
+      "cobblemon:ninjask": 1,
+      "cobblemon:oricorio": 1,
+      "cobblemon:crabrawler": 1,
+      "cobblemon:pidgeotto": 1,
+      "cobblemon:oddish": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -63,6 +73,14 @@
       ],
       "cobblemon:gastly": [
         "male"
+      ],
+      "cobblemon:gyarados": [
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:slowbro": [
+        "female"
       ]
     }
   }

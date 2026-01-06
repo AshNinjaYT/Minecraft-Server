@@ -21,15 +21,21 @@
     "criteria": {
       "minecraft:badlands": "2026-01-05 18:46:07 +0100",
       "minecraft:flower_forest": "2026-01-05 19:06:36 +0100",
+      "minecraft:snowy_slopes": "2026-01-06 15:03:18 +0100",
       "minecraft:beach": "2026-01-05 18:25:53 +0100",
       "minecraft:forest": "2026-01-05 18:50:14 +0100",
+      "minecraft:taiga": "2026-01-06 15:01:58 +0100",
       "minecraft:river": "2026-01-05 18:30:35 +0100",
       "minecraft:lukewarm_ocean": "2026-01-05 18:25:56 +0100",
       "minecraft:snowy_plains": "2026-01-05 22:50:58 +0100",
+      "minecraft:stony_shore": "2026-01-06 15:03:36 +0100",
       "minecraft:desert": "2026-01-05 18:24:13 +0100",
       "minecraft:ocean": "2026-01-05 18:53:17 +0100",
       "minecraft:jungle": "2026-01-05 18:30:25 +0100",
       "minecraft:sunflower_plains": "2026-01-05 18:55:09 +0100",
+      "minecraft:cherry_grove": "2026-01-06 15:04:31 +0100",
+      "minecraft:grove": "2026-01-06 15:02:49 +0100",
+      "minecraft:meadow": "2026-01-06 15:01:51 +0100",
       "minecraft:savanna": "2026-01-05 18:50:37 +0100",
       "minecraft:plains": "2026-01-05 18:48:33 +0100",
       "minecraft:warm_ocean": "2026-01-05 18:33:46 +0100",
@@ -555,7 +561,10 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_oran_berry": "2026-01-05 18:27:22 +0100"
+      "obtain_grepa_berry": "2026-01-06 15:12:51 +0100",
+      "obtain_oran_berry": "2026-01-05 18:27:22 +0100",
+      "obtain_chilan_berry": "2026-01-06 14:53:25 +0100",
+      "obtain_aspear_berry": "2026-01-06 15:13:33 +0100"
     },
     "done": false
   },
@@ -4608,10 +4617,12 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "net_ball": "2026-01-05 18:39:31 +0100",
+      "ancient_ivory_ball": "2026-01-06 15:20:06 +0100",
       "lure_ball": "2026-01-05 18:41:41 +0100",
       "ancient_slate_ball": "2026-01-05 18:45:43 +0100",
       "slate_ball": "2026-01-05 18:44:14 +0100",
       "ancient_poke_ball": "2026-01-05 18:45:43 +0100",
+      "moon_ball": "2026-01-06 15:22:50 +0100",
       "poke_ball": "2026-01-05 18:27:22 +0100",
       "repeat_ball": "2026-01-05 18:41:15 +0100",
       "azure_ball": "2026-01-05 18:41:16 +0100",
@@ -28919,7 +28930,8 @@
   },
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
-      "lure_ball": "2026-01-05 18:41:41 +0100"
+      "lure_ball": "2026-01-05 18:41:41 +0100",
+      "moon_ball": "2026-01-06 15:22:50 +0100"
     },
     "done": false
   },
@@ -28949,6 +28961,7 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_ivory_ball": "2026-01-06 15:20:06 +0100",
       "ancient_slate_ball": "2026-01-05 18:45:43 +0100",
       "ancient_poke_ball": "2026-01-05 18:45:43 +0100"
     },
@@ -28959,7 +28972,9 @@
       "mutton": "2026-01-05 22:06:57 +0100",
       "apple": "2026-01-05 22:33:53 +0100",
       "bread": "2026-01-05 18:46:08 +0100",
-      "cooked_mutton": "2026-01-05 22:23:26 +0100"
+      "cooked_mutton": "2026-01-05 22:23:26 +0100",
+      "baked_potato": "2026-01-06 15:19:40 +0100",
+      "porkchop": "2026-01-06 15:11:17 +0100"
     },
     "done": false
   },
@@ -28989,6 +29004,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2026-01-06 14:24:10 +0100",
       "minecraft:skeleton": "2026-01-05 19:08:30 +0100",
       "minecraft:piglin": "2026-01-05 22:12:20 +0100",
       "minecraft:enderman": "2026-01-05 19:10:31 +0100",
@@ -29017,52 +29033,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2026-01-05 22:12:12 +0100",
-      "minecraft:soul_sand_valley": "2026-01-05 22:10:18 +0100"
-    },
-    "done": false
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2026-01-05 22:58:56 +0100"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2026-01-05 21:40:17 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:full_party": {
-    "criteria": {
-      "full_party": "2026-01-05 21:48:11 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2026-01-05 22:10:18 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:ride_pokemon": {
-    "criteria": {
-      "check_inv": "2026-01-05 22:41:14 +0100"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2026-01-05 22:10:18 +0100"
-    },
-    "done": true
-  },
-  "cobbleverse:trainer/kanto/defeat_brock": {
-    "criteria": {
-      "leader_defeated": "2026-01-05 22:57:45 +0100"
     },
     "done": true
   },
@@ -29072,9 +29045,118 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2026-01-05 21:48:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-01-05 22:12:12 +0100",
+      "minecraft:soul_sand_valley": "2026-01-05 22:10:18 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-01-05 22:10:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-01-05 22:10:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2026-01-05 22:39:51 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:ride_pokemon": {
+    "criteria": {
+      "check_inv": "2026-01-05 22:41:14 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_brock": {
+    "criteria": {
+      "leader_defeated": "2026-01-05 22:57:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-01-05 22:58:56 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2026-01-06 15:12:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-01-06 14:25:10 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/courage_candy": {
+    "criteria": {
+      "has_berry": "2026-01-06 15:12:51 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_xs_candy": "2026-01-06 15:14:26 +0100"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2026-01-06 15:22:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-01-06 15:15:40 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_mutated_berry": {
+    "criteria": {
+      "check_inv": "2026-01-06 15:12:51 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/coward_candy": {
+    "criteria": {
+      "has_berry": "2026-01-06 15:12:51 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-01-06 15:12:50 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:obtain_fossil": {
+    "criteria": {
+      "check_inv": "2026-01-06 15:12:29 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2026-01-06 14:54:13 +0100"
     },
     "done": true
   },

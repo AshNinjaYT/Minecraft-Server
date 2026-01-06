@@ -7,38 +7,41 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 4,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 44,
+    "totalBattleVictoryCount": 69,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 41,
-    "totalPvNBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 65,
+    "totalPvNBattleVictoryCount": 4,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "rock": 1,
-      "flying": 1
+      "rock": 2,
+      "flying": 1,
+      "steel": 1,
+      "poison": 1,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:beautifly": 1,
       "cobblemon:snubbull": 4,
       "cobblemon:igglybuff": 1,
       "cobblemon:buizel": 1,
-      "cobblemon:petilil": 1,
-      "cobblemon:basculin": 2,
+      "cobblemon:petilil": 2,
+      "cobblemon:basculin": 5,
       "cobblemon:zigzagoon": 2,
       "cobblemon:arrokuda": 1,
       "cobblemon:pawmo": 1,
       "cobblemon:pachirisu": 1,
       "cobblemon:wooloo": 1,
-      "cobblemon:corphish": 1,
+      "cobblemon:corphish": 2,
       "cobblemon:ledyba": 7,
       "cobblemon:marill": 1,
       "cobblemon:goldeen": 1,
       "cobblemon:slowpoke": 1,
-      "cobblemon:poliwag": 2,
+      "cobblemon:poliwag": 4,
       "cobblemon:gossifleur": 1,
       "cobblemon:budew": 1,
       "cobblemon:oinkologne": 1,
@@ -48,7 +51,18 @@
       "cobblemon:glameow": 1,
       "cobblemon:meowth": 1,
       "cobblemon:gimmighoul": 1,
-      "cobblemon:roselia": 1
+      "cobblemon:roselia": 1,
+      "cobblemon:dubwool": 1,
+      "cobblemon:slowbro": 1,
+      "cobblemon:floatzel": 1,
+      "cobblemon:whiscash": 1,
+      "cobblemon:magikarp": 3,
+      "cobblemon:wishiwashi": 1,
+      "cobblemon:frillish": 2,
+      "cobblemon:cramorant": 1,
+      "cobblemon:jigglypuff": 1,
+      "cobblemon:voltorb": 1,
+      "cobblemon:purrloin": 1
     },
     "aspectsCollected": {
       "cobblemon:gurdurr": [
@@ -75,6 +89,15 @@
         "genderless",
         "core-form",
         "blue-core"
+      ],
+      "cobblemon:varoom": [
+        "female"
+      ],
+      "cobblemon:roggenrola": [
+        "female"
+      ],
+      "cobblemon:raboot": [
+        "female"
       ]
     }
   }

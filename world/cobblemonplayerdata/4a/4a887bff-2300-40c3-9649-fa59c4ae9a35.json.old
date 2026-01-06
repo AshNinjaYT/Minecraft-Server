@@ -4,29 +4,34 @@
   "starterLocked": false,
   "starterSelected": true,
   "starterUUID": "b3dd8314-fb80-4a7f-9651-826a99683eca",
-  "keyItems": [],
+  "keyItems": [
+    "cobblemon:key_stone"
+  ],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 12,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 57,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 40,
-    "totalPvNBattleVictoryCount": 17,
-    "totalShinyCaptureCount": 1,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 80,
+    "totalPvPBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 58,
+    "totalPvNBattleVictoryCount": 20,
+    "totalShinyCaptureCount": 2,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "poison": 2,
       "fighting": 1,
       "bug": 3,
-      "water": 1,
+      "water": 2,
       "grass": 1,
-      "flying": 1,
-      "normal": 1,
-      "fire": 1
+      "flying": 3,
+      "normal": 2,
+      "fire": 1,
+      "dark": 1,
+      "psychic": 2,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:skorupi": 1,
@@ -36,8 +41,8 @@
       "cobblemon:slowking": 1,
       "cobblemon:sandslash": 1,
       "cobblemon:mankey": 3,
-      "cobblemon:gimmighoul": 4,
-      "cobblemon:grapploct": 2,
+      "cobblemon:gimmighoul": 5,
+      "cobblemon:grapploct": 3,
       "cobblemon:escavalier": 1,
       "cobblemon:bellibolt": 1,
       "cobblemon:weezing": 1,
@@ -55,7 +60,18 @@
       "cobblemon:wooloo": 1,
       "cobblemon:carbink": 1,
       "cobblemon:dugtrio": 1,
-      "cobblemon:galvantula": 1
+      "cobblemon:galvantula": 1,
+      "cobblemon:butterfree": 2,
+      "cobblemon:teddiursa": 1,
+      "cobblemon:yamper": 1,
+      "cobblemon:basculin": 1,
+      "cobblemon:poliwag": 2,
+      "cobblemon:barboach": 2,
+      "cobblemon:tympole": 1,
+      "cobblemon:greedent": 1,
+      "cobblemon:exeggutor": 1,
+      "cobblemon:swoobat": 1,
+      "cobblemon:taillow": 1
     },
     "aspectsCollected": {
       "cobblemon:okidogi": [
@@ -97,6 +113,29 @@
       ],
       "cobblemon:magby": [
         "male"
+      ],
+      "cobblemon:inkay": [
+        "male"
+      ],
+      "cobblemon:malamar": [
+        "male"
+      ],
+      "cobblemon:rookidee": [
+        "female"
+      ],
+      "cobblemon:slowpoke": [
+        "female",
+        "regrown-tail-3",
+        "regrown-tail-2",
+        "regrown-tail-1"
+      ],
+      "cobblemon:lechonk": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:articuno": [
+        "genderless",
+        "legendary"
       ]
     }
   }
