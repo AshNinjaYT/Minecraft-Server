@@ -7,26 +7,48 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 8,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 44,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 8,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 41,
+    "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "rock": 1,
+      "flying": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:beautifly": 1,
-      "cobblemon:snubbull": 1,
+      "cobblemon:snubbull": 4,
       "cobblemon:igglybuff": 1,
       "cobblemon:buizel": 1,
       "cobblemon:petilil": 1,
-      "cobblemon:basculin": 1,
-      "cobblemon:zigzagoon": 1,
-      "cobblemon:arrokuda": 1
+      "cobblemon:basculin": 2,
+      "cobblemon:zigzagoon": 2,
+      "cobblemon:arrokuda": 1,
+      "cobblemon:pawmo": 1,
+      "cobblemon:pachirisu": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:corphish": 1,
+      "cobblemon:ledyba": 7,
+      "cobblemon:marill": 1,
+      "cobblemon:goldeen": 1,
+      "cobblemon:slowpoke": 1,
+      "cobblemon:poliwag": 2,
+      "cobblemon:gossifleur": 1,
+      "cobblemon:budew": 1,
+      "cobblemon:oinkologne": 1,
+      "cobblemon:flaaffy": 2,
+      "cobblemon:taillow": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:glameow": 1,
+      "cobblemon:meowth": 1,
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:roselia": 1
     },
     "aspectsCollected": {
       "cobblemon:gurdurr": [
@@ -35,6 +57,24 @@
       ],
       "cobblemon:venusaur": [
         "male"
+      ],
+      "cobblemon:rhydon": [
+        "male"
+      ],
+      "cobblemon:rhyperior": [
+        "male"
+      ],
+      "cobblemon:cinderace": [
+        "female"
+      ],
+      "cobblemon:conkeldurr": [
+        "male",
+        "color-none"
+      ],
+      "cobblemon:minior": [
+        "genderless",
+        "core-form",
+        "blue-core"
       ]
     }
   }

@@ -27,6 +27,7 @@
       "minecraft:old_growth_spruce_taiga": "2026-01-04 21:52:32 +0100",
       "minecraft:snowy_beach": "2026-01-05 13:55:51 +0100",
       "minecraft:bamboo_jungle": "2026-01-03 23:25:25 +0100",
+      "minecraft:windswept_savanna": "2026-01-06 02:20:32 +0100",
       "minecraft:warm_ocean": "2026-01-04 00:07:34 +0100",
       "minecraft:deep_lukewarm_ocean": "2026-01-04 00:17:01 +0100",
       "minecraft:flower_forest": "2026-01-04 23:45:10 +0100",
@@ -960,23 +961,31 @@
     "criteria": {
       "obtain_spelon_berry": "2026-01-04 22:12:48 +0100",
       "obtain_coba_berry": "2026-01-05 15:37:30 +0100",
-      "obtain_apicot_berry": "2026-01-04 22:39:57 +0100",
       "obtain_pinap_berry": "2026-01-04 23:42:46 +0100",
-      "obtain_oran_berry": "2026-01-03 23:15:45 +0100",
+      "obtain_kelpsy_berry": "2026-01-06 02:13:03 +0100",
+      "obtain_starf_berry": "2026-01-06 00:58:08 +0100",
       "obtain_yache_berry": "2026-01-04 23:08:20 +0100",
-      "obtain_durin_berry": "2026-01-04 22:55:07 +0100",
+      "obtain_payapa_berry": "2026-01-06 02:13:24 +0100",
+      "obtain_chilan_berry": "2026-01-06 00:58:12 +0100",
       "obtain_persim_berry": "2026-01-05 15:44:48 +0100",
-      "obtain_passho_berry": "2026-01-04 22:40:19 +0100",
       "obtain_rindo_berry": "2026-01-05 00:10:31 +0100",
       "obtain_salac_berry": "2026-01-04 22:48:46 +0100",
       "obtain_cornn_berry": "2026-01-04 23:07:11 +0100",
       "obtain_shuca_berry": "2026-01-04 22:39:55 +0100",
-      "obtain_cheri_berry": "2026-01-04 22:41:37 +0100",
       "obtain_mago_berry": "2026-01-05 00:36:36 +0100",
       "obtain_maranga_berry": "2026-01-04 22:41:34 +0100",
       "obtain_belue_berry": "2026-01-04 22:40:04 +0100",
-      "obtain_roseli_berry": "2026-01-04 22:41:30 +0100",
       "obtain_pecha_berry": "2026-01-04 23:07:07 +0100",
+      "obtain_apicot_berry": "2026-01-04 22:39:57 +0100",
+      "obtain_oran_berry": "2026-01-03 23:15:45 +0100",
+      "obtain_haban_berry": "2026-01-06 00:58:13 +0100",
+      "obtain_bluk_berry": "2026-01-06 02:13:59 +0100",
+      "obtain_durin_berry": "2026-01-04 22:55:07 +0100",
+      "obtain_passho_berry": "2026-01-04 22:40:19 +0100",
+      "obtain_kee_berry": "2026-01-06 00:58:09 +0100",
+      "obtain_cheri_berry": "2026-01-04 22:41:37 +0100",
+      "obtain_wacan_berry": "2026-01-06 02:12:52 +0100",
+      "obtain_roseli_berry": "2026-01-04 22:41:30 +0100",
       "obtain_wepear_berry": "2026-01-04 22:41:51 +0100"
     },
     "done": false
@@ -10128,7 +10137,8 @@
       "friend_ball": "2026-01-05 00:38:05 +0100",
       "ancient_roseate_ball": "2026-01-05 15:30:38 +0100",
       "premier_ball": "2026-01-04 22:37:17 +0100",
-      "park_ball": "2026-01-04 22:29:03 +0100"
+      "park_ball": "2026-01-04 22:29:03 +0100",
+      "master_ball": "2026-01-06 00:57:15 +0100"
     },
     "done": false
   },
@@ -24521,6 +24531,7 @@
       "cooked_rabbit": "2026-01-04 22:52:08 +0100",
       "sweet_berries": "2026-01-04 22:12:01 +0100",
       "cooked_beef": "2026-01-03 23:30:11 +0100",
+      "baked_potato": "2026-01-06 01:10:04 +0100",
       "melon_slice": "2026-01-03 23:54:19 +0100",
       "carrot": "2026-01-04 23:13:30 +0100"
     },
@@ -24556,6 +24567,7 @@
       "obtain_ice_heal": "2026-01-04 21:58:19 +0100",
       "obtain_burn_heal": "2026-01-05 13:09:56 +0100",
       "obtain_potion": "2026-01-04 23:06:47 +0100",
+      "obtain_max_ether": "2026-01-06 01:58:44 +0100",
       "obtain_awakening": "2026-01-04 00:18:39 +0100",
       "obtain_antidote": "2026-01-05 00:25:12 +0100",
       "obtain_paralyze_heal": "2026-01-05 15:22:10 +0100",
@@ -24662,11 +24674,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2026-01-05 00:02:34 +0100",
+      "minecraft:piglin": "2026-01-06 03:24:14 +0100",
       "minecraft:zombified_piglin": "2026-01-05 18:26:15 +0100",
       "minecraft:enderman": "2026-01-04 23:35:14 +0100",
       "minecraft:spider": "2026-01-05 00:02:42 +0100",
       "minecraft:zombie": "2026-01-05 01:15:34 +0100",
-      "minecraft:creeper": "2026-01-05 01:15:05 +0100"
+      "minecraft:creeper": "2026-01-05 01:15:05 +0100",
+      "minecraft:drowned": "2026-01-05 22:14:10 +0100"
     },
     "done": false
   },
@@ -24772,69 +24786,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2026-01-05 18:34:27 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2026-01-05 18:54:38 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2026-01-05 18:34:27 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:iron_upgrade": {
-    "criteria": {
-      "iron_upgrade": "2026-01-05 18:35:10 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/gold": {
-    "criteria": {
-      "has_gold_ingot": "2026-01-05 18:36:18 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-05 18:39:19 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:gold_upgrade": {
-    "criteria": {
-      "gold_upgrade": "2026-01-05 18:36:27 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_no_tanks": {
-    "criteria": {
-      "has_chest": "2026-01-05 18:34:34 +0100"
-    },
-    "done": true
-  },
   "travelersbackpack:root": {
     "criteria": {
       "tick": "2026-01-05 18:24:29 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:functionality_upgrade": {
-    "criteria": {
-      "functionality_upgrade": "2026-01-05 18:35:03 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2026-01-05 18:34:18 +0100"
     },
     "done": true
   },
@@ -24844,27 +24798,81 @@
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/red_concrete_slab_from_red_concrete_stonecutting": {
+  "goml:recipes/all_recipes": {
     "criteria": {
-      "has_red_concrete": "2026-01-05 19:42:45 +0100"
+      "has_chest": "2026-01-05 18:24:29 +0100"
     },
     "done": true
   },
-  "lootr:social": {
+  "travelersbackpack:recipes/misc/coal": {
     "criteria": {
-      "opened_chest": "2026-01-05 20:04:43 +0100"
+      "has_coal": "2026-01-05 18:24:29 +0100"
     },
-    "done": false
+    "done": true
   },
-  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-01-05 18:24:29 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-05 18:24:29 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2026-01-05 18:24:29 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2026-01-05 18:24:29 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2026-01-05 18:27:18 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2026-01-05 18:27:24 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2026-01-05 18:34:18 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2026-01-05 18:34:18 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2026-01-05 18:34:27 +0100"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/skeleton": {
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
-      "has_arrow": "2026-01-05 19:12:52 +0100"
+      "has_blank_upgrade": "2026-01-05 18:34:27 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2026-01-05 18:34:27 +0100"
     },
     "done": true
   },
@@ -24874,27 +24882,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/sheep": {
-    "criteria": {
-      "has_white_wool": "2026-01-05 20:01:13 +0100"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2026-01-05 18:34:27 +0100"
-    },
-    "done": true
-  },
-  "goml:recipes/all_recipes": {
-    "criteria": {
-      "has_chest": "2026-01-05 18:24:29 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
-    "criteria": {
-      "has_gray_wool": "2026-01-05 20:02:21 +0100"
     },
     "done": true
   },
@@ -24910,75 +24900,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2026-01-05 19:41:44 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-05 18:39:19 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:dye_backpack": {
-    "criteria": {
-      "dye_backpack": "2026-01-05 19:41:44 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/red_concrete_brick_slab_from_red_concrete_stonecutting": {
-    "criteria": {
-      "has_red_concrete": "2026-01-05 19:42:45 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/red_concrete_bricks_from_red_concrete_stonecutting": {
-    "criteria": {
-      "has_red_concrete": "2026-01-05 19:42:45 +0100"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2026-01-05 20:04:43 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/coal": {
-    "criteria": {
-      "has_coal": "2026-01-05 18:24:29 +0100"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2026-01-05 18:34:27 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/red_concrete_stairs_from_red_concrete_stonecutting": {
-    "criteria": {
-      "has_red_concrete": "2026-01-05 19:42:45 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/spider": {
-    "criteria": {
-      "has_string": "2026-01-05 18:27:18 +0100"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2026-01-05 18:24:29 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
-    "criteria": {
-      "has_white_wool": "2026-01-05 20:01:13 +0100"
     },
     "done": true
   },
@@ -24994,66 +24918,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
-    "criteria": {
-      "has_black_wool": "2026-01-05 19:45:06 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard": {
-    "criteria": {
-      "has_chest": "2026-01-05 18:34:34 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/redstone": {
-    "criteria": {
-      "has_redstone": "2026-01-05 18:27:24 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
-    "criteria": {
-      "has_iron_ingot": "2026-01-05 18:24:29 +0100"
-    },
-    "done": true
-  },
-  "moarconcrete:recipes/building_blocks/red_concrete_wall_from_red_concrete_stonecutting": {
-    "criteria": {
-      "has_red_concrete": "2026-01-05 19:42:45 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/squid": {
-    "criteria": {
-      "has_ink_sac": "2026-01-05 19:59:17 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/hose_nozzle": {
-    "criteria": {
-      "has_iron": "2026-01-05 18:24:29 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_leather": "2026-01-05 18:34:18 +0100"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/wolf": {
-    "criteria": {
-      "has_bone": "2026-01-05 18:24:29 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2026-01-05 18:37:45 +0100"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2026-01-05 18:34:27 +0100"
@@ -25066,15 +24930,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
-      "has_gold_ingot": "2026-01-05 18:36:18 +0100"
+      "has_chest": "2026-01-05 18:34:34 +0100"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+  "travelersbackpack:recipes/misc/standard": {
     "criteria": {
-      "has_upgrade_base": "2026-01-05 18:39:19 +0100"
+      "has_chest": "2026-01-05 18:34:34 +0100"
     },
     "done": true
   },
@@ -25084,15 +24948,370 @@
     },
     "done": true
   },
-  "moarconcrete:recipes/building_blocks/red_concrete_panel_from_red_concrete_stonecutting": {
+  "travelersbackpack:functionality_upgrade": {
     "criteria": {
-      "has_red_concrete": "2026-01-05 19:42:45 +0100"
+      "functionality_upgrade": "2026-01-05 18:35:03 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:iron_upgrade": {
+    "criteria": {
+      "iron_upgrade": "2026-01-05 18:35:10 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-05 18:36:18 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-05 18:36:18 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:gold_upgrade": {
+    "criteria": {
+      "gold_upgrade": "2026-01-05 18:36:27 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2026-01-05 18:37:45 +0100"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2026-01-05 18:37:45 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-05 18:39:19 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-05 18:39:19 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-05 18:39:19 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2026-01-05 18:54:38 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2026-01-05 19:12:52 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-01-05 19:41:44 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:dye_backpack": {
+    "criteria": {
+      "dye_backpack": "2026-01-05 19:41:44 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_slab_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-01-05 19:42:45 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_brick_slab_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-01-05 19:42:45 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_bricks_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-01-05 19:42:45 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_stairs_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-01-05 19:42:45 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_wall_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-01-05 19:42:45 +0100"
+    },
+    "done": true
+  },
+  "moarconcrete:recipes/building_blocks/red_concrete_panel_from_red_concrete_stonecutting": {
+    "criteria": {
+      "has_red_concrete": "2026-01-05 19:42:45 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2026-01-05 19:45:06 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2026-01-05 19:59:17 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2026-01-05 20:01:13 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2026-01-05 20:01:13 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2026-01-05 20:02:21 +0100"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-01-06 01:04:37 +0100",
+      "opened_chest": "2026-01-05 20:04:43 +0100"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-01-05 20:04:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-01-05 21:33:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-01-06 03:21:42 +0100"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-01-06 02:52:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:oritech/root": {
+    "criteria": {
+      "got_nickel": "2026-01-06 01:38:39 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:custom_backpack": {
+    "criteria": {
+      "custom_backpack": "2026-01-06 01:44:10 +0100"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/nickel_ingot_from_blasting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2026-01-06 01:38:39 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_rod": {
+    "criteria": {
+      "craft_rod": "2026-01-06 00:59:19 +0100"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2026-01-06 01:13:08 +0100"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2026-01-06 01:08:54 +0100"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-01-06 01:04:37 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/weak_candy": {
+    "criteria": {
+      "has_berry": "2026-01-06 02:13:03 +0100"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2026-01-06 03:17:56 +0100"
+    },
+    "done": true
+  },
+  "cobbleverse:trainer/kanto/defeat_ltsurge": {
+    "criteria": {
+      "leader_defeated": "2026-01-06 02:30:35 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/mighty_candy": {
+    "criteria": {
+      "has_berry": "2026-01-06 02:13:03 +0100"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2026-01-06 00:29:27 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2026-01-06 00:21:00 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2026-01-06 00:17:08 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2026-01-06 03:38:25 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman_smithing": {
+    "criteria": {
+      "has_enderman": "2026-01-06 01:44:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-01-06 03:21:41 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-01-06 03:17:25 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2026-01-06 03:29:55 +0100"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/raw_nickel_blockblock": {
+    "criteria": {
+      "has_raw_nickel": "2026-01-06 01:38:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-01-06 03:21:41 +0100"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2026-01-06 01:05:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-01-06 02:13:04 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2026-01-05 21:36:46 +0100"
+    },
+    "done": true
+  },
+  "lootr:pot_opened": {
+    "criteria": {
+      "pot_opened": "2026-01-06 01:04:53 +0100"
+    },
+    "done": true
+  },
+  "lootr:archaeologist": {
+    "criteria": {
+      "got_pot": "2026-01-06 01:04:53 +0100"
+    },
+    "done": false
+  },
+  "oritech:recipes/misc/nickel_ingot_from_smelting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2026-01-06 01:38:39 +0100"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2026-01-06 01:21:54 +0100"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/packed_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-06 00:17:08 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-06 01:13:02 +0100"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2026-01-06 02:03:56 +0100"
     },
     "done": true
   },

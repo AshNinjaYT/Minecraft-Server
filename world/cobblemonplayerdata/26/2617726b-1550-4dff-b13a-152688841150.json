@@ -8,22 +8,24 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 7,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 20,
+    "totalBattleVictoryCount": 25,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 15,
-    "totalPvNBattleVictoryCount": 5,
-    "totalShinyCaptureCount": 0,
+    "totalPvWBattleVictoryCount": 18,
+    "totalPvNBattleVictoryCount": 7,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "water": 1,
-      "fighting": 1,
+      "fighting": 2,
       "flying": 1,
       "fire": 1,
-      "grass": 1
+      "grass": 1,
+      "ghost": 1,
+      "poison": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:caterpie": 1,
@@ -31,7 +33,8 @@
       "cobblemon:bunnelby": 3,
       "cobblemon:pidgey": 1,
       "cobblemon:magikarp": 1,
-      "cobblemon:zigzagoon": 1
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:krabby": 1
     },
     "aspectsCollected": {
       "cobblemon:magikarp": [
@@ -52,6 +55,13 @@
         "male"
       ],
       "cobblemon:skiddo": [
+        "male"
+      ],
+      "cobblemon:clobbopus": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:gastly": [
         "male"
       ]
     }

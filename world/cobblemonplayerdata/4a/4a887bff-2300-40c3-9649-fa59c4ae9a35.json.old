@@ -8,18 +8,96 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 7,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 57,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
-    "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalPvWBattleVictoryCount": 40,
+    "totalPvNBattleVictoryCount": 17,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
-    "aspectsCollected": {}
+    "totalTypeCaptureCounts": {
+      "poison": 2,
+      "fighting": 1,
+      "bug": 3,
+      "water": 1,
+      "grass": 1,
+      "flying": 1,
+      "normal": 1,
+      "fire": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:skorupi": 1,
+      "cobblemon:skitty": 1,
+      "cobblemon:dubwool": 1,
+      "cobblemon:mudsdale": 1,
+      "cobblemon:slowking": 1,
+      "cobblemon:sandslash": 1,
+      "cobblemon:mankey": 3,
+      "cobblemon:gimmighoul": 4,
+      "cobblemon:grapploct": 2,
+      "cobblemon:escavalier": 1,
+      "cobblemon:bellibolt": 1,
+      "cobblemon:weezing": 1,
+      "cobblemon:stantler": 2,
+      "cobblemon:ninetales": 1,
+      "cobblemon:wyrdeer": 1,
+      "cobblemon:snover": 1,
+      "cobblemon:murkrow": 1,
+      "cobblemon:snorunt": 1,
+      "cobblemon:darumaka": 1,
+      "cobblemon:mareep": 2,
+      "cobblemon:drifblim": 1,
+      "cobblemon:bouffalant": 2,
+      "cobblemon:furret": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:carbink": 1,
+      "cobblemon:dugtrio": 1,
+      "cobblemon:galvantula": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:okidogi": [
+        "male"
+      ],
+      "cobblemon:spinarak": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:rhydon": [
+        "female"
+      ],
+      "cobblemon:rhyperior": [
+        "female"
+      ],
+      "cobblemon:wimpod": [
+        "male"
+      ],
+      "cobblemon:karrablast": [
+        "female"
+      ],
+      "cobblemon:salamence": [
+        "female"
+      ],
+      "cobblemon:rowlet": [
+        "male",
+        "region-bias-hisui"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:dartrix": [
+        "male",
+        "region-bias-hisui"
+      ],
+      "cobblemon:decidueye": [
+        "male",
+        "hisuian"
+      ],
+      "cobblemon:magby": [
+        "male"
+      ]
+    }
   }
 }
